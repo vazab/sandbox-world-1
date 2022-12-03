@@ -21,3 +21,8 @@ Sandbox project where:
 <div align="center">
   <a href="https://youtu.be/C4na_5q--Io"><img src="https://img.youtube.com/vi/C4na_5q--Io/0.jpg" alt="Youtube link" style="width:100%;"></a>
 </div>
+
+## Gif
+<div align="center">
+  <img src="./ReadmeMD/sandbox-world-1.gif" height="360" width="640">
+</div>
